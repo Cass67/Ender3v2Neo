@@ -9,3 +9,4 @@ This config has the following configured:
 - **Input shaping**
 - **RPI Pico MCU**
 - **KAMP for adaptive mesh**
+- **Various custom macros**
