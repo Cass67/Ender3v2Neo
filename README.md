@@ -3,6 +3,6 @@ Config is part of a 2 printer config using KIAUH.
 
 This config has the following configured.
 
-Input shaping
-RPI Pico MCU
+Input shaping\n
+RPI Pico MCU\n
 KAMP for adaptive mesh
