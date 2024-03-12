@@ -1,8 +1,11 @@
-Ender 3 v2Neo Klipper config.  
-Config is part of a 2 printer config using KIAUH.
+# Ender 3 v2Neo Klipper Config
 
-This config has the following configured.
+This config is part of a 2 printer config using KIAUH.
 
-Input shaping\n
-RPI Pico MCU\n
-KAMP for adaptive mesh
+## Features
+
+This config has the following configured:
+
+- **Input shaping**
+- **RPI Pico MCU**
+- **KAMP for adaptive mesh**
