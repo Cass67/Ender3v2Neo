@@ -4,10 +4,10 @@ This config is part of a 2 printer config using KIAUH.
 
 The printer has been modified to use:
 
-SKR Mini E3 v3 control board
-Orbiter v2 extruder
-V6 Volcano HF style hotend
-Hero Me 7 Toolhead
+- SKR Mini E3 v3 control board
+- Orbiter v2 extruder
+- V6 Volcano HF style hotend
+- Hero Me 7 Toolhead
 
 
 It also reflects the stock set up using the Creality 4.2.7 board.
